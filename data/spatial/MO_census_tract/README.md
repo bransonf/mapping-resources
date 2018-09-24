@@ -1,0 +1,1 @@
+These data are a shapefile for 2010 census tracts to the extent of Missouri. They were acquired from the the census TIGER website on 9/23/18.
